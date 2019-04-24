@@ -92,4 +92,10 @@ public enum BuildStatus {
       }
     }
   }
+
+  @Override
+  public String toString() {
+    return "BuildStatus{" + tag + '}';
+  }
+  
 }
