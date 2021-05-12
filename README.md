@@ -48,3 +48,22 @@ To file issues, use official [Jenkins Jira][jira] and the component `build-notif
 [boteco]: <https://github.com/devnull-tools/boteco>
 [jira]: <https://issues.jenkins-ci.org>
 [slack]: <https://slack.com>
+
+
+1. 在global里添加 TG 机器人的token
+2. 在items里, 添加 TG 的chatid
+3. 现在 就可以发build的消息了, 但是默认的消息很简单...
+4. 可以修改一下格式, 然后重新发送
+
+![image](https://user-images.githubusercontent.com/7446394/117949202-73fc6180-b344-11eb-8b19-c0d7ce3bef50.png)
+
+
+
+
+
+
+
+
+
+
+
